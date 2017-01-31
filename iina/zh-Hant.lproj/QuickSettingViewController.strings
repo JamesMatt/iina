@@ -30,7 +30,7 @@
 "7su-au-nwq.title" = "5";
 
 /* Class = "NSButtonCell"; title = "Load External Audio Track..."; ObjectID = "8Ax-5X-osl"; */
-"8Ax-5X-osl.title" = "加載音訊檔...";
+"8Ax-5X-osl.title" = "載入音訊檔...";
 
 /* Class = "NSTextFieldCell"; title = "Audio delay:"; ObjectID = "AKs-VQ-fKF"; */
 "AKs-VQ-fKF.title" = "音訊延遲:";
@@ -48,7 +48,7 @@
 "C0t-gm-Tim.title" = "5s";
 
 /* Class = "NSButtonCell"; title = "Load Subtitle..."; ObjectID = "C97-zJ-O3Y"; */
-"C97-zJ-O3Y.title" = "加載字幕檔...";
+"C97-zJ-O3Y.title" = "載入字幕檔...";
 
 /* Class = "NSTextFieldCell"; title = "0"; ObjectID = "CAr-N0-j64"; */
 "CAr-N0-j64.title" = "0";
@@ -57,7 +57,7 @@
 "CFK-kH-8hR.title" = "60";
 
 /* Class = "NSTabViewItem"; label = "Video"; ObjectID = "CYP-el-A6A"; */
-"CYP-el-A6A.label" = "視頻";
+"CYP-el-A6A.label" = "視訊";
 
 /* Class = "NSMenuItem"; title = "0.25"; ObjectID = "DdO-VX-HCz"; */
 "DdO-VX-HCz.title" = "0.25";
@@ -87,7 +87,7 @@
 "LEZ-fv-buL.title" = "0s";
 
 /* Class = "NSTextFieldCell"; title = "External audio:"; ObjectID = "Lnu-kz-cql"; */
-"Lnu-kz-cql.title" = "外置音訊:";
+"Lnu-kz-cql.title" = "外部音訊:";
 
 /* Class = "NSTextFieldCell"; title = "-12 dB"; ObjectID = "Lpw-ws-Ezh"; */
 "Lpw-ws-Ezh.title" = "-12 dB";
@@ -108,7 +108,7 @@
 "PLX-gY-e0h.title" = "5x";
 
 /* Class = "NSTextFieldCell"; title = "External subtitles:"; ObjectID = "RA1-fF-OrB"; */
-"RA1-fF-OrB.title" = "外置字幕:";
+"RA1-fF-OrB.title" = "外部字幕:";
 
 /* Class = "NSTextFieldCell"; title = "Saturation:"; ObjectID = "Rky-lo-Buu"; */
 "Rky-lo-Buu.title" = "飽和度:";
@@ -165,7 +165,7 @@
 "bzk-c2-LH5.label" = "音訊";
 
 /* Class = "NSSegmentedCell"; cMu-YF-riv.ibShadowedLabels[0] = "Default"; ObjectID = "cMu-YF-riv"; */
-"cMu-YF-riv.ibShadowedLabels[0]" = "默認";
+"cMu-YF-riv.ibShadowedLabels[0]" = "預設值";
 
 /* Class = "NSSegmentedCell"; cMu-YF-riv.ibShadowedLabels[1] = "4:3"; ObjectID = "cMu-YF-riv"; */
 "cMu-YF-riv.ibShadowedLabels[1]" = "4:3";
@@ -300,7 +300,7 @@
 "uqb-mz-A22.title" = "背景";
 
 /* Class = "NSButtonCell"; title = "Custom..."; ObjectID = "vFD-HU-RVz"; */
-"vFD-HU-RVz.title" = "自定...";
+"vFD-HU-RVz.title" = "自訂...";
 
 /* Class = "NSTextFieldCell"; title = "Sub style options may break ASS rendering, and some of them will be disabled depending on subtitle type."; ObjectID = "wBD-pZ-Bvu"; */
 "wBD-pZ-Bvu.title" = "字幕樣式可能破壞 ASS 渲染。某些字幕格式無法使用下列部分選項。";

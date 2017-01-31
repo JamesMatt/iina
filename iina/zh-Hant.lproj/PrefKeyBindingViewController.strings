@@ -6,7 +6,7 @@
 "4Bn-MF-dfY.headerCell.title" = "命令";
 
 /* Class = "NSButtonCell"; title = "New..."; ObjectID = "JYL-hr-KZT"; */
-"JYL-hr-KZT.title" = "新建...";
+"JYL-hr-KZT.title" = "新增...";
 
 /* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "JwC-60-7Hp"; */
 "JwC-60-7Hp.headerCell.title" = "鍵位";

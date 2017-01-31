@@ -18,7 +18,7 @@
 "main.buffering_indicator" = "緩衝中... %@%%";
 
 // QuickSettingViewController.swift
-"quicksetting.aspect_item.Default" = "默認";
+"quicksetting.aspect_item.Default" = "預設值";
 "quicksetting.crop_item.None" = "關閉";
 
 // OSDMessage.swift
@@ -39,7 +39,7 @@
 "osd.subtitle_pos" = "字幕位置：%.1f";
 "osd.mute" = "靜音";
 "osd.unmute" = "取消靜音";
-"osd.screenshot" = "熒幕已截取";
+"osd.screenshot" = "螢幕已截取";
 "osd.abloop.a" = "AB循環：A";
 "osd.abloop.b" = "AB循環：B";
 "osd.abloop.clear" = "AB循環：清除";
@@ -57,16 +57,16 @@
 "update.title_update_found" = "檢測到更新";
 "update.title_no_update" = "沒有更新";
 "update.title_error" = "錯誤";
-"update.update_found" = "檢測到更新。由於 IINA 仍處於 Alpha 測試中，我們建議您保持最新版本。請去網站或者 Github 下載：";
-"update.no_update" = "您正在運行的是最新版本。";
-"update.check_failed" = "檢查更新失敗。你的 IINA 版本很可能過於陳舊，請去網站或者 Github 查看最新信息：";
+"update.update_found" = "檢測到更新。由於 IINA 仍處於測試階段，我們建議您保持最新版本。請至網站或 Github 下載：";
+"update.no_update" = "已經是最新版本。";
+"update.check_failed" = "檢查更新失敗。您的 IINA 版本很可能過於陳舊，請至網站或 Github 查看最新訊息：";
 "update.new_version" = "新版本：";
 "update.dl_from_website" = "前往網站";
 "update.dl_from_github" = "前往 Github";
 
 "preference.title" = "偏好設定";
 "preference.general" = "通用";
-"preference.ui" = "UI";
+"preference.ui" = "介面";
 "preference.codec" = "解碼";
 "preference.subtitle" = "字幕";
 "preference.network" = "網路";
@@ -78,11 +78,11 @@
 "menu.volume"= "音量: %d";
 "menu.audio_delay" = "音訊延遲 卜木: %.2f秒";
 "menu.sub_delay" = "字幕延遲: %.2f秒";
-"menu.fullscreen" = "進入全熒幕";
-"menu.exit_fullscreen" = "離開全熒幕";
+"menu.fullscreen" = "進入全螢幕";
+"menu.exit_fullscreen" = "離開全螢幕";
 "menu.pause" = "暫停";
 "menu.resume" = "繼續";
 
 "track.none" = "<無>";
 
-"alert.extra_option_error" = "無法設定選項 --%@=%@ （返回值 %d）。 請在「設置>高級」中檢查你的額外 mpv 選項。";
+"alert.extra_option_error" = "無法設定選項 --%@=%@ （返回值 %d）。 請在「設定>高級」中檢查你的額外 mpv 選項。";

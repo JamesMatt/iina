@@ -6,13 +6,13 @@
 "2Ig-fw-UvW.title" = "上一個 / 下一個";
 
 /* Class = "NSMenuItem"; title = "Toggle fullscreen"; ObjectID = "6F4-gm-oBg"; */
-"6F4-gm-oBg.title" = "切換至全熒幕";
+"6F4-gm-oBg.title" = "切換至全螢幕";
 
 /* Class = "NSTextFieldCell"; title = "Exact seek is more precise but can cause lag and high CPU usage."; ObjectID = "6FZ-Qm-0k0"; */
-"6FZ-Qm-0k0.title" = "精確查找過大檔案將十分耗費 CPU 並導致卡頓";
+"6FZ-Qm-0k0.title" = "進階搜尋會讓結果更加準確，但需要耗費較多 CPU 資源，可能會導致電腦短暫延遲。";
 
 /* Class = "NSMenuItem"; title = "Exact seek"; ObjectID = "70P-6t-4jC"; */
-"70P-6t-4jC.title" = "精確查找";
+"70P-6t-4jC.title" = "進階搜尋";
 
 /* Class = "NSMenuItem"; title = "Pause / Resume"; ObjectID = "A8c-wa-IFR"; */
 "A8c-wa-IFR.title" = "暫停 / 繼續";

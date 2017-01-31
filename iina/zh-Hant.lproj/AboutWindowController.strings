@@ -18,7 +18,7 @@
 "SMU-4a-EZu.title" = "Github:";
 
 /* Class = "NSTextFieldCell"; title = "This is an alpha release. It will not update automatically, so please checkout the website to get new versions. For bug report, feature request or help, please raise an issue at github or email me."; ObjectID = "TI7-3V-nUn"; */
-"TI7-3V-nUn.title" = "這是 Alpha 版本，並不推薦日常使用，請經常檢查更新。如果需要反饋或幫助, 請在 Github 上提 issue 或者郵件聯繫作者。";
+"TI7-3V-nUn.title" = "IINA 仍在測試階段，不建議日常使用，請隨時檢查更新。如果需要提供建議或幫助，請在 Github 上提出或寫信聯絡作者。";
 
 /* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "YZN-bC-GbO"; */
 "YZN-bC-GbO.title" = "郵件:";
